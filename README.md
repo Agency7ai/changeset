@@ -51,7 +51,7 @@ changeset/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/changeset.git
+git clone https://github.com/Agency7ai/changeset.git
 cd changeset
 ```
 
